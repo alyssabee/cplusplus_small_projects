@@ -20,7 +20,7 @@ int main()
     // Calculate BMI (kgs / m^2) 
     bmi = weight / (height * height);
 
-    std::cout << std::endl << "Your BMI is: " << bmi;
+    std::cout << std::endl << "Your BMI is: " << bmi << std::endl;
 
     return 0; 
     
